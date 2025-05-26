@@ -25,7 +25,8 @@ CORS(app, resources={
             "https://kosge-frontend-kqxo.onrender.com",
             "https://kos-frontend.onrender.com",
             "https://kos-frontend-kqxo.onrender.com",
-            "https://kos-2.onrender.com"
+            "https://kos-2.onrender.com",
+            "https://kosge-berlin.de"
         ],
         "methods": ["GET", "POST", "DELETE", "OPTIONS", "PUT"],
         "allow_headers": ["Content-Type", "Authorization"],

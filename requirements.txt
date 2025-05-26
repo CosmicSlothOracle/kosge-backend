@@ -1,5 +1,12 @@
+<<<<<<< HEAD
    Flask
    gunicorn
    PyJWT
    flask-cors
+=======
+   Flask
+   gunicorn
+   PyJWT
+   flask-cors
+>>>>>>> 36fb532 (Add bcrypt to requirements)
    bcrypt
