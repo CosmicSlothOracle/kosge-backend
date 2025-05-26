@@ -1,0 +1,42 @@
+{
+  "vision": {
+    "de": "Text für Vision auf Deutsch.",
+    "en": "Text for vision in English.",
+    "tr": "Vizyon için Türkçe metin.",
+    "ru": "Текст для видения на русском.",
+    "ar": "نص للرؤية بالعربية.",
+    "einfach": "Text für Vision in einfacher Sprache."
+  },
+  "wer_wir_sind": {
+    "de": "Text für Wer wir sind auf Deutsch.",
+    "en": "Text for who we are in English.",
+    "tr": "Biz kimiz için Türkçe metin.",
+    "ru": "Текст для кто мы на русском.",
+    "ar": "نص لمن نحن بالعربية.",
+    "einfach": "Text für Wer wir sind in einfacher Sprache."
+  },
+  "konzept": {
+    "de": "Text für Das Konzept auf Deutsch.",
+    "en": "Text for the concept in English.",
+    "tr": "Kavram için Türkçe metin.",
+    "ru": "Текст для концепции на русском.",
+    "ar": "نص للمفهوم بالعربية.",
+    "einfach": "Text für Das Konzept in einfacher Sprache."
+  },
+  "ziel": {
+    "de": "Text für Unser Ziel auf Deutsch.",
+    "en": "Text for our goal in English.",
+    "tr": "Hedefimiz için Türkçe metin.",
+    "ru": "Текст для нашей цели на русском.",
+    "ar": "نص لهدفنا بالعربية.",
+    "einfach": "Text für Unser Ziel in einfacher Sprache."
+  },
+  "mitmachen": {
+    "de": "Text für Mitmachen auf Deutsch.",
+    "en": "Text for get involved in English.",
+    "tr": "Katılmak için Türkçe metin.",
+    "ru": "Текст для участия на русском.",
+    "ar": "نص للمشاركة بالعربية.",
+    "einfach": "Text für Mitmachen in einfacher Sprache."
+  }
+}
